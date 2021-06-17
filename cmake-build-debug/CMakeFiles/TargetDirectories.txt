@@ -1,0 +1,3 @@
+C:/Users/LS/CLionProjects/recargo_martri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LS/CLionProjects/recargo_martri/cmake-build-debug/CMakeFiles/recargo_martri.dir
+C:/Users/LS/CLionProjects/recargo_martri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
